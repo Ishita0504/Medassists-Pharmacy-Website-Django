@@ -1,0 +1,98 @@
+.bigbox {
+    height: 100vh;
+    width: 100vw;
+    background-color: #95a5a6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width:90%;
+    height: auto;
+    background: white;
+}
+.box0 {
+    width:100%;
+    height: auto;
+    background: white;
+}
+.box1 {
+    width: 60%;
+    height: auto;
+    background: white;
+}
+.modelbox{
+    width:100%;
+    height:auto;
+    background: #FFF;
+}
+.headingtextinterface{
+    width: 100%;
+    height: 20%;
+    background: #00796b;
+     display:flex;
+     justify-content:center;
+    align-items: center;
+}
+.headingtextinterface1{
+    width: 100%;
+    height: 10%;
+    background: #00796b;
+     display:flex;
+     justify-content:center;
+    align-items: center;
+}
+.Boxheadings {
+    width: 100%;
+    height: 20%;
+    background: #00796b;
+     display:flex;
+    align-items: center;
+}
+
+.headingtext {
+    font-size: 26px;
+    font-weight: bold;
+    color: white;
+     width: 40%;
+    display: flex;justify-content: flex-start;
+
+}
+.navbar{
+margin-right:4%;
+}
+
+.btnrows {
+    display: flex;
+    justify-content: center
+}
+
+.colorfile {
+    background-color:#00796b!important;
+}
+
+.btnstyle {
+ margin-left:20%;
+    width:50%;
+    background-color:#00796b!important;
+}
+.btnedit{
+width:60%;
+background-color: #00796b !important;
+}
+.editdeletebtn{
+background-color: #00796b !important;
+}
+.nav-wrapper{
+height:20%;
+background-color: #00796b !important;
+}
+.messagestyle {
+    font-size: 15px;
+    font-weight: bold;
+    color: red;
+}
+
+.btnrows1 {
+    margin-top: 34pt;
+}

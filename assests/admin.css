@@ -1,0 +1,101 @@
+.loginbigbox{
+    background:#01579b;
+     width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.box{
+    background:url('doc.webp');
+     width:95vw;
+    height:98vh;
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+}
+ a.link {
+  text-decoration: none;
+  color: #747474;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+ .action {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+}
+.action button {
+  width: 100%;
+  border: none;
+  padding: 18px;
+  font-family:monospace;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+  background:#e8e9ec;
+  color: #777;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 0;
+  letter-spacing: 0.2px;
+  outline: 0;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.action button:hover {
+  background:#8FBC8F;
+}
+.content {
+ width: 65%;
+ height: auto%;
+align-items: center;
+margin-left:13%;
+}
+.regibox{
+    width:500px;
+    height:730px;
+    background: white;
+    margin-right:15%;
+     justify-content:center;
+     align-items:center;
+}
+.btnrows {
+    display: flex;
+    justify-content: center
+}
+
+.loginbox{
+    width:470px;
+    height:auto;
+    background:white ;
+    margin-right:8%;
+}
+
+#image{
+height: 70%;
+width:30%;
+position:fixed;
+top:10%;
+margin-left:10%
+}
+.headingtextinterface1{
+    width: 15vw;
+    height: 10vh;
+    background: white;
+    display:flex;
+   justify-content:center;
+    align-items: center;
+
+}
+.headingtext {
+    font-size: 27px;
+    font-weight: bold;
+    color: black;
+     width: 40%;
+   margin-left:100px;
+}
